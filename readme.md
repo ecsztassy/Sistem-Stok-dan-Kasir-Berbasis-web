@@ -39,12 +39,15 @@ Sistem ini dikembangkan sebagai solusi untuk mengatasi pencatatan manual yang re
 4. Atur koneksi database
 5. Jalankan di browser:
    http://localhost/nama-folder
+   
 🎯 Tujuan
 Meningkatkan efisiensi operasional toko
 Mengurangi kesalahan pencatatan
 Menyediakan laporan akurat dan real-time
+
 📌 Studi Kasus
 Toko Material Bangunan (TB Ilham Abadi)
+
 👨‍💻 Developer
 Nathan Ahnaf Hafiz
 S1 Informatika
