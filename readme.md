@@ -8,8 +8,6 @@ Sistem Stok dan Kasir Berbasis Web adalah aplikasi yang dirancang untuk membantu
 
 ## 📸 Preview
 
-> Tambahkan screenshot aplikasi pada folder `screenshots/`, lalu ubah path berikut.
-
 ![Dashboard](screenshots/dashboard.png)
 
 ---
